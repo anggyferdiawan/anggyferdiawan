@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anggyferdiawan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Html, Css, Js and Php
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MongoDB, Express Js, React, and Node JS
 - 📫 How to reach me email to anggyferdiawan@gmail.com
 
 <!---
